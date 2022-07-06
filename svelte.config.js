@@ -11,7 +11,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		appDir: 'internal',
+		/*appDir: 'internal',*/
 		// Override http methods in the Todo forms
 		methodOverride: {
 			allowed: ['PATCH', 'DELETE']
