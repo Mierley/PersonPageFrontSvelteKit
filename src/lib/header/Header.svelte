@@ -3,7 +3,7 @@
 	import logo from './svelte-logo.svg';
 
 	const dev = process.env.NODE_ENV === 'development';
-	let base = ( dev ? '' : 'reponame');
+	let base = ( dev ? '' : 'PersonPageFrontSvelteKit');
 </script>
 
 <header>
