@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-ae8a51e3.js",
+    "file": "start-de679b43.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -24,7 +24,7 @@
       "src/routes/UFO.svelte"
     ],
     "css": [
-      "assets/pages/__layout.svelte-32f25967.css"
+      "assets/pages/__layout.svelte-3fb746b4.css"
     ],
     "assets": [
       "assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
